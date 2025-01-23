@@ -1,0 +1,275 @@
+1
+00:00:02,850 --> 00:00:03,880
+The
+
+2
+00:00:07,660 --> 00:00:13,360
+hey guys Welcome to modern javascript from the beginning this is not a course on frameworks or libraries
+
+3
+00:00:13,360 --> 00:00:14,940
+or how to use a query.
+
+4
+00:00:14,950 --> 00:00:19,450
+This is a course on learning and building things with pure modern Javascript.
+
+5
+00:00:19,450 --> 00:00:21,110
+So who is this course for.
+
+6
+00:00:21,130 --> 00:00:22,930
+For absolutely everyone.
+
+7
+00:00:22,960 --> 00:00:28,380
+We're starting from absolute scratch the first section is all about fundamentals like data types arrays
+
+8
+00:00:28,390 --> 00:00:33,880
+loops functions all the basics that you need to know and explained in a way that doesn't suggest that
+
+9
+00:00:33,880 --> 00:00:35,800
+you know anything about programming.
+
+10
+00:00:36,010 --> 00:00:40,210
+Now just because the first section is geared towards beginners doesn't mean that this is a beginner's
+
+11
+00:00:40,210 --> 00:00:41,050
+course.
+
+12
+00:00:41,080 --> 00:00:47,320
+From there we're going to learn all about the DOM how to manipulate interfaces events Asynchronous JavaScript
+
+13
+00:00:47,320 --> 00:00:51,660
+with Ajax and fetch promises and other new features.
+
+14
+00:00:51,820 --> 00:00:58,120
+We're going to learn about object oriented programming both E.S. five prototypes and as 2015 classes
+
+15
+00:00:58,450 --> 00:01:04,060
+we'll also learn about things like regular expressions javascript patterns and much more.
+
+16
+00:01:04,060 --> 00:01:10,930
+Now I carefully formatted this course in a way that is modular it has modular learning sections where
+
+17
+00:01:10,930 --> 00:01:17,580
+we really dig into the code and use the console for output to learn specific aspects of the language.
+
+18
+00:01:17,650 --> 00:01:23,440
+But I also included about 10 different projects that range in size that allow you to build stuff based
+
+19
+00:01:23,440 --> 00:01:24,690
+on what you've learned.
+
+20
+00:01:24,850 --> 00:01:29,260
+So some are very small many projects others take up to 12 lectures.
+
+21
+00:01:29,260 --> 00:01:35,550
+The last project will actually be an entire front end to arrest API using no framework whatsoever.
+
+22
+00:01:35,680 --> 00:01:43,150
+In fact we'll even build a custom HGP library that will build using the fecche API along with a sink
+
+23
+00:01:43,150 --> 00:01:44,380
+in a way.
+
+24
+00:01:44,380 --> 00:01:48,860
+So why take this course well first of all you're going to learn modern javascript from scratch.
+
+25
+00:01:48,880 --> 00:01:54,970
+And I didn't format this like many other courses out there where it's all older yes 5 code and then
+
+26
+00:01:54,970 --> 00:01:59,650
+a little sprinkle of iOS 6 at the end you're going to learn the core fundamentals that have been around
+
+27
+00:01:59,650 --> 00:02:02,170
+forever along with the new features.
+
+28
+00:02:02,320 --> 00:02:08,940
+All modern browsers now support 95 percent of as 2015 are also called iOS 6.
+
+29
+00:02:09,040 --> 00:02:15,040
+So things like leten Konst aero functions template literals we're going to utilize these features throughout
+
+30
+00:02:15,040 --> 00:02:20,830
+the course and then when we do get to something that the browser doesn't support such as EIAS 20:15
+
+31
+00:02:20,830 --> 00:02:27,250
+modules I'm going to show you how to compile your code with web pack and babbel down to something that
+
+32
+00:02:27,280 --> 00:02:28,850
+all browsers can run.
+
+33
+00:02:29,190 --> 00:02:32,500
+OK another reason is because frameworks have basically taken over.
+
+34
+00:02:32,500 --> 00:02:35,810
+People are learning frameworks before the actual language.
+
+35
+00:02:35,830 --> 00:02:41,260
+This course will teach you how to build things without reactor angular and at the same time give you
+
+36
+00:02:41,260 --> 00:02:44,880
+more skills to be able to understand how those frameworks operate.
+
+37
+00:02:45,050 --> 00:02:45,360
+OK.
+
+38
+00:02:45,370 --> 00:02:49,380
+You're also going to learn your way around the DOM without having to use a query.
+
+39
+00:02:49,390 --> 00:02:54,880
+There's almost no need for a query any more vanilla javascript is more than capable of manipulating
+
+40
+00:02:54,880 --> 00:02:55,750
+the DOM.
+
+41
+00:02:55,750 --> 00:02:59,530
+You'll also learn about structuring and design patterns.
+
+42
+00:02:59,530 --> 00:03:04,000
+So here's a list of some of the major topics that will cover in this course for absolute beginners.
+
+43
+00:03:04,000 --> 00:03:11,320
+We have language fundamentals that will move to Dom and Appalachian events with no query S-5 and ESX
+
+44
+00:03:11,320 --> 00:03:17,440
+object oriented programming Asynchronous JavaScript with Ajax and callbacks as well as newer standards
+
+45
+00:03:17,440 --> 00:03:25,240
+like fecche promises and sync away things like Error handling regular expressions local in-session storage
+
+46
+00:03:25,860 --> 00:03:32,610
+aero functions maps insets popular javascript patterns and a bunch of projects to go with all of it.
+
+47
+00:03:32,950 --> 00:03:39,310
+So some of the included projects will include a task list with DOM manipulation as well as local storage
+
+48
+00:03:39,310 --> 00:03:47,050
+to persist the data alone calculator a number guessing game in object oriented application on creating
+
+49
+00:03:47,050 --> 00:03:55,230
+book lists even build a custom HTP library first with Ajax and callbacks and then we'll move on to fetch
+
+50
+00:03:55,240 --> 00:04:02,740
+promises in a sink away and then we'll move on to building API projects like the get hub finder using
+
+51
+00:04:02,740 --> 00:04:03,960
+the Get hub API.
+
+52
+00:04:04,150 --> 00:04:11,530
+A weather app using the Weather Underground API will build a pretty large project using the module pattern
+
+53
+00:04:11,830 --> 00:04:20,560
+which will track calories and then we'll build a complete front end to arrest API with ESX modules using
+
+54
+00:04:20,560 --> 00:04:26,140
+web pack and babbel And then along the way we'll have some many projects like a Chuck Norris job generator
+
+55
+00:04:26,410 --> 00:04:33,760
+to look at Ajax and how that works and externally pie's a profile scroller to give you an example of
+
+56
+00:04:33,760 --> 00:04:39,960
+how to use E-6 iterators and then we'll build a little state pattern interface where we can switch from.
+
+57
+00:04:40,150 --> 00:04:45,330
+Will create a bootstrap theme and we can switch pages based on the state.
+
+58
+00:04:45,340 --> 00:04:49,760
+All right so these are some of the things that we'll learn throughout the course and these other things
+
+59
+00:04:49,760 --> 00:04:54,940
+that listed here are things that we're not going to completely focus on and I'm going to fully explain
+
+60
+00:04:54,970 --> 00:04:58,000
+but these are skills you may pick up some more each time balance.
+
+61
+00:04:58,000 --> 00:05:04,630
+SS We're going to use frameworks like bootstrap for materialized CSSA skeleton CSSA you're going to
+
+62
+00:05:04,630 --> 00:05:12,740
+learn more about each requests get requests post put delete rest AAPI eyes we're going to be using something
+
+63
+00:05:12,740 --> 00:05:18,500
+called Jason's server on the last project where we can create a fake rest API for our front end and
+
+64
+00:05:18,500 --> 00:05:22,050
+we'll build the front end using E-S 20:15 modules.
+
+65
+00:05:22,100 --> 00:05:29,420
+So we'll be using web pack and babbel to compile newer features of javascript down to S-5.
+
+66
+00:05:29,840 --> 00:05:30,100
+All right.
+
+67
+00:05:30,110 --> 00:05:35,090
+So hopefully you guys enjoy this course whether you're brand new to javascript and programming in general
+
+68
+00:05:35,090 --> 00:05:38,940
+or whether you're already in the field and you're looking to sharpen your skills.
+
+69
+00:05:38,960 --> 00:05:41,050
+Let's go ahead and get started.
